@@ -1,0 +1,9 @@
+1- اسم اپ چین که دیپلوی کردید
+
+2- pngاپلود لوگو
+
+3- pc_url (port 9944 by default)
+
+4- explorer_url: A public endpoint where your app chain explorer is visible
+
+5- metrics_endpoint: A public endpoint for your prometheus metrics (port 9615/metrics by default)
